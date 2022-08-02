@@ -1,0 +1,8 @@
+03:33:19 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:33:19 PM: DEBUG [ConnectionDB.py:38] Successful cursor
+03:41:00 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:41:00 PM: DEBUG [ConnectionDB.py:41] Cursor error: 'NoneType' object has no attribute 'cursor'
+03:43:09 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:43:09 PM: DEBUG [ConnectionDB.py:41] Cursor error: <class 'AttributeError'>
+03:45:12 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:45:12 PM: DEBUG [ConnectionDB.py:39] Successful cursor

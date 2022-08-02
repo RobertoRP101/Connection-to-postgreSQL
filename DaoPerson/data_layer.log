@@ -1,0 +1,262 @@
+03:26:54 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:27:57 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:27:57 PM: DEBUG [ConnectionDB.py:41] Cursor error: 'NoneType' object has no attribute 'cursor'
+03:30:38 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:30:38 PM: DEBUG [ConnectionDB.py:41] Cursor error: 'NoneType' object has no attribute 'cursor'
+03:36:18 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:36:18 PM: DEBUG [ConnectionDB.py:41] Cursor error: 'NoneType' object has no attribute 'cursor'
+03:37:44 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:37:44 PM: DEBUG [ConnectionDB.py:41] Cursor error: 'NoneType' object has no attribute 'cursor'
+03:45:22 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:45:22 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+03:46:18 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:46:18 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+03:46:18 PM: DEBUG [DaoPerson.py:27] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gamil.com
+03:56:52 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:56:52 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+03:58:23 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:58:23 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+03:59:04 PM: DEBUG [ConnectionDB.py:26] Successful connection
+03:59:04 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gamil.com
+03:59:04 PM: DEBUG [DaoPerson.py:38] 
+
+ID: 10
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:05:10 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:05:10 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+04:05:19 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:05:19 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gamil.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 10
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:05:19 PM: DEBUG [DaoPerson.py:37] 
+
+ID: 11
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:08:17 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:08:17 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+04:19:59 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:19:59 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+04:21:49 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:22:53 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:22:53 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+04:24:30 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 10
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 11
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 12
+Name: Mary
+Lastname: Smith
+Email: alicieGe@gmail.com
+04:24:30 PM: DEBUG [DaoPerson.py:46] 
+
+ID: 9
+Name: Abigail
+Lastname: Medardo
+Email: sandraMe@gmail.com
+04:38:02 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:39:22 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:39:36 PM: DEBUG [ConnectionDB.py:26] Successful connection
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 11
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 12
+Name: Mary
+Lastname: Smith
+Email: alicieGe@gmail.com
+04:39:36 PM: DEBUG [DaoPerson.py:56] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gmail.com
