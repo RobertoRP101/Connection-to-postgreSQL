@@ -260,3 +260,157 @@ ID: 9
 Name: Sandra
 Lastname: Medardo
 Email: sandraMe@gmail.com
+05:45:49 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:45:49 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001E5A5552570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:45:49 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+05:45:49 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001E5A5552570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:45:49 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001E5A5552570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:45:49 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+05:45:49 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001E5A5552570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 11
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 12
+Name: Mary
+Lastname: Smith
+Email: alicieGe@gmail.com
+05:45:49 PM: DEBUG [DaoPerson.py:50] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gmail.com
+03:01:07 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:01:07 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025252A92570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:01:07 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:01:07 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025252A92570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:01:25 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025252A92570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:01:25 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:01:25 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025252A92570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:12 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:05:12 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000002240B402570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:12 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:05:12 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000002240B402570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:57 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:05:57 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000017678EA2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:57 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:05:57 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000017678EA2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:57 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000017678EA2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:05:57 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:05:57 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000017678EA2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:06:25 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:06:25 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000002C6240C2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:06:25 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:06:25 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000002C6240C2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:06:25 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000002C6240C2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:06:25 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:06:25 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000002C6240C2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 3
+Name: Leonardo
+Lastname: Acosta
+Email: leograngalaxy@gamil.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 5
+Name: Aurora
+Lastname: Mendez
+Email: auroraMC@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 6
+Name: Alberto
+Lastname: Martinez
+Email: albertoMF@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 7
+Name: Xenia
+Lastname: Martinez
+Email: bolitaMC@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 2
+Name: Roberto
+Lastname: Riveros
+Email: robertorI@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 11
+Name: Alicie
+Lastname: George
+Email: alicieGe@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 12
+Name: Mary
+Lastname: Smith
+Email: alicieGe@gmail.com
+03:06:25 PM: DEBUG [DaoPerson.py:81] 
+
+ID: 9
+Name: Sandra
+Lastname: Medardo
+Email: sandraMe@gmail.com
+03:07:33 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:07:33 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001D16E5B2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:07:33 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:07:33 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001D16E5B2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:08:09 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:08:09 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:08:09 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:08:09 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:09:48 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:09:48 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:09:48 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:09:54 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:09:54 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:09:54 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:10:10 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:10:10 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:10:10 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x0000025D9ACC2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:11:18 PM: INFO [ConnectionDB.py:30] Successful pool connection
+03:11:18 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001E048C82570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:11:18 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:11:18 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001E048C82570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+
+03:11:21 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001E048C82570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+03:11:21 PM: INFO [Pool_Cursor.py:21] [COMMIT]
+03:11:21 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001E048C82570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+

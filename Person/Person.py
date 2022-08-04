@@ -38,6 +38,5 @@ class Person(object):
         self._email = email
 
     def __str__(self):
-        return f'\nID: {self.id_person}\nName: {self.name}\nLastname: {self.lastname}' \
-               f'\nEmail: {self.email}'
-    
+        return f'ID: {self.id_person}\nName: {self.name}\nLastname: {self.lastname}' \
+               f'\nEmail: {self.email}\n'
