@@ -6,3 +6,34 @@
 03:43:09 PM: DEBUG [ConnectionDB.py:41] Cursor error: <class 'AttributeError'>
 03:45:12 PM: DEBUG [ConnectionDB.py:26] Successful connection
 03:45:12 PM: DEBUG [ConnectionDB.py:39] Successful cursor
+05:45:24 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:46:01 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:46:01 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000027910142570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:16 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:46:16 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001C239552570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:16 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001C23B6B07B0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:16 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001C23B6B0040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:29 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:46:29 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001B9A5002570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:29 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001B9A75207B0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:29 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001B9A7520040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:30 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001B9A7520AE0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:30 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001B9A75209D0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:38 PM: INFO [ConnectionDB.py:30] Successful pool connection
+05:46:38 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000016A995C2570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:38 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000016A9B7607B0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:38 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000016A9B760040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:38 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000016A9B760AE0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+05:46:38 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000016A9B7609D0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:49:37 PM: INFO [ConnectionDB.py:30] Successful pool connection
+04:49:37 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001A5B7F52570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:14 PM: INFO [ConnectionDB.py:30] Successful pool connection
+04:51:14 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000012E0FB02570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:14 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000012E120707B0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:14 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x0000012E12070040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:48 PM: INFO [ConnectionDB.py:30] Successful pool connection
+04:51:48 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001A102872570; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:49 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001A1049D07B0; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:49 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001A1049D0040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:49 PM: INFO [ConnectionDB.py:47] Connection realeased: <connection object at 0x000001A1049D0040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
+04:51:49 PM: INFO [ConnectionDB.py:41] Got connection <connection object at 0x000001A1049D0040; dsn: 'user=postgres password=xxx dbname=DB_Person host=127.0.0.1 port=5432', closed: 0>
